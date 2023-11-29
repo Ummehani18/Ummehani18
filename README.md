@@ -1,13 +1,14 @@
 <h1 align="center">Hello Viewers!!👋🏻</h1>
 <h3 align="center">Myself Hani...</h3>
-<img align="center" width="400"src="C:\Users\DELL\Downloads\Untitled design (63).png">
+<img align="right" width="300"src="coding img.jpeg">
+
 - I'm currently a computer science student.🧑🏻‍🎓🧑🏻‍💻
 
 - ⚡ Enthusiastic about UI/UX and app development. *Exploring projects in both realms.*
 
 - 🤓Canva designer: passionate about designing and creating digital template [Click to see my designs](https://pin.it/3zJbafG)
 
-- 📫 How to reach me *ummehani01072002@gmail.com*
+- 📫 How to reach me: [mail me](*ummehani01072002@gmail.com*)
 
 - ⚡ Fun fact: *The Firefox logo ins't a fox it's panda😉*
 <p align="left">
