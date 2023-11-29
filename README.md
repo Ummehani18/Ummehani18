@@ -8,7 +8,7 @@
 
 - 🤓Canva designer: passionate about designing and creating digital template [Click to see my designs](https://pin.it/3zJbafG)
 
-- 📫 How to reach me: [mail me](*ummehani01072002@gmail.com*)
+- 📫 How to reach me:*ummehani01072002@gmail.com*
 
 - ⚡ Fun fact: *The Firefox logo ins't a fox it's panda😉*
 <p align="left">
