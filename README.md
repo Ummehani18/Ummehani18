@@ -1,6 +1,6 @@
 <h1 align="center">Hello Viewers!!👋🏻</h1>
 <h3 align="center">Its me Hani this side🙋🏻‍♀️💐</h3>
-<img align="right" width="340"src="coding img.jpeg">
+<img align="right" width="350"src="coding img.jpeg">
 
 - I'm currently a computer science student.🧑🏻‍🎓🧑🏻‍💻
 
