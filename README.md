@@ -3,11 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummehani18&label=Profile%20views&color=0e75b6&style=flat" alt="ummehani18" /> </p>
 
 
-- I'm currently a computer science Graduate.🧑🏻‍🎓🧑🏻‍💻
-
-- ⚡ Enthusiastic about DevOps and Adroid app development.
+- How about building something that can help Gen Z? 👀
   
-- 🫱🏻‍🫲🏻 I'm looking to collaborate on Android app development Projects.
+- 🫱🏻‍🫲🏻 I'm looking to collaborate on Android app development.
 
 
 - 📫 How to reach me:*ummehani01072002@gmail.com*
