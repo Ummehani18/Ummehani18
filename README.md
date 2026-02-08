@@ -4,7 +4,7 @@
 
 - Building things for Gen Z — preferably ones that actually scale 👀  
 
-- Backend-first engineer who also handles deployment (yes, production matters) — build it, deploy it, own it
+- Backend-first engineer who also handles <a href="https://my-terminal-uh.vercel.app/">deployment</a> (yes, production matters) — build it, deploy it, own it
   
 - Comfortable with APIs, databases, Docker, CI/CD, and Linux terminals
   
