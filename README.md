@@ -2,15 +2,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummehani18&label=Profile%20views&color=0e75b6&style=flat" alt="ummehani18" /> </p>
 
+- Building things for Gen Z — preferably ones that actually scale 👀  
 
-- How about building something that can help Gen Z? 👀
+- Backend-first engineer who also handles deployment (yes, production matters) — build it, deploy it, own it
   
-- 🫱🏻‍🫲🏻 I'm looking to collaborate on Android app development.
+- Comfortable with APIs, databases, Docker, CI/CD, and Linux terminals
+  
+- Open to collaborating on Mobile apps when there’s a real backend involved
+  
+- 📫 Reach me: *ummehani01072002@gmail.com*
+  
+- ⚡ Fun fact: The Firefox logo isn’t a fox. It’s a red panda. Now you know.
 
-
-- 📫 How to reach me:*ummehani01072002@gmail.com*
-
-- ⚡ Fun fact: *The Firefox logo ins't a fox it's panda😉*
 <p align="left">
 </p>
 
